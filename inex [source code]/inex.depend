@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1599729861 source:c:\users\user\desktop\inex\main.cpp
+	<conio.h>
+	<windows.h>
+	<common.h>
+	<admin.h>
+	<customer.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<graphics.h>
+	<string>
+	<sstream>
+
+1599401951 c:\users\user\desktop\inex\include\common.h
+	<bits/stdc++.h>
+
+1599666799 c:\users\user\desktop\inex\include\admin.h
+	<common.h>
+	<bits/stdc++.h>
+
+1599665070 c:\users\user\desktop\inex\include\customer.h
+	<bits/stdc++.h>
+	"common.h"
+
+1476096933 e:\nahian\codeblocks\mingw\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 e:\nahian\codeblocks\mingw\mingw64\include\mysql_com.h
+
+1476096972 e:\nahian\codeblocks\mingw\mingw64\include\mysql_time.h
+
+1476096983 e:\nahian\codeblocks\mingw\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 e:\nahian\codeblocks\mingw\mingw64\include\typelib.h
+
+1476097168 e:\nahian\codeblocks\mingw\mingw64\include\my_list.h
+
+1476097177 e:\nahian\codeblocks\mingw\mingw64\include\my_alloc.h
+
+1504609042 e:\nahian\codeblocks\mingw\mingw64\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1599730688 source:c:\users\user\desktop\inex\src\admin.cpp
+	"admin.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<customer.h>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1599409569 source:c:\users\user\desktop\inex\src\common.cpp
+	"common.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<admin.h>
+	<customer.h>
+
+1599684715 source:c:\users\user\desktop\inex\src\customer.cpp
+	"customer.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1600080135 source:c:\users\user\desktop\oop presentation\inex\main.cpp
+	<conio.h>
+	<windows.h>
+	<common.h>
+	<admin.h>
+	<customer.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<graphics.h>
+	<string>
+	<sstream>
+
+1599401951 c:\users\user\desktop\oop presentation\inex\include\common.h
+	<bits/stdc++.h>
+
+1599666799 c:\users\user\desktop\oop presentation\inex\include\admin.h
+	<common.h>
+	<bits/stdc++.h>
+
+1599665070 c:\users\user\desktop\oop presentation\inex\include\customer.h
+	<bits/stdc++.h>
+	"common.h"
+
+1599730688 source:c:\users\user\desktop\oop presentation\inex\src\admin.cpp
+	"admin.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<customer.h>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1599409569 source:c:\users\user\desktop\oop presentation\inex\src\common.cpp
+	"common.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<admin.h>
+	<customer.h>
+
+1599684715 source:c:\users\user\desktop\oop presentation\inex\src\customer.cpp
+	"customer.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1599730688 source:c:\users\user\downloads\1b-a\inex\src\admin.cpp
+	"admin.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<customer.h>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1599666799 c:\users\user\downloads\1b-a\inex\include\admin.h
+	<common.h>
+	<bits/stdc++.h>
+
+1599401951 c:\users\user\downloads\1b-a\inex\include\common.h
+	<bits/stdc++.h>
+
+1599665070 c:\users\user\downloads\1b-a\inex\include\customer.h
+	<bits/stdc++.h>
+	"common.h"
+
+1599409569 source:c:\users\user\downloads\1b-a\inex\src\common.cpp
+	"common.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<admin.h>
+	<customer.h>
+
+1599684715 source:c:\users\user\downloads\1b-a\inex\src\customer.cpp
+	"customer.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1600098494 source:c:\users\user\downloads\1b-a\inex\main.cpp
+	<conio.h>
+	<windows.h>
+	<common.h>
+	<admin.h>
+	<customer.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<graphics.h>
+	<string>
+	<sstream>
+
+1600098494 source:e:\nahian\term project final submission_1b-a\inex [source code]\main.cpp
+	<conio.h>
+	<windows.h>
+	<common.h>
+	<admin.h>
+	<customer.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<graphics.h>
+	<string>
+	<sstream>
+
+1599401951 e:\nahian\term project final submission_1b-a\inex [source code]\include\common.h
+	<bits/stdc++.h>
+
+1599666799 e:\nahian\term project final submission_1b-a\inex [source code]\include\admin.h
+	<common.h>
+	<bits/stdc++.h>
+
+1599665070 e:\nahian\term project final submission_1b-a\inex [source code]\include\customer.h
+	<bits/stdc++.h>
+	"common.h"
+
+1599730688 source:e:\nahian\term project final submission_1b-a\inex [source code]\src\admin.cpp
+	"admin.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<customer.h>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
+1599409569 source:e:\nahian\term project final submission_1b-a\inex [source code]\src\common.cpp
+	"common.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+	<admin.h>
+	<customer.h>
+
+1599684715 source:e:\nahian\term project final submission_1b-a\inex [source code]\src\customer.cpp
+	"customer.h"
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<sstream>
+
